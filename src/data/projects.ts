@@ -18,7 +18,9 @@ export interface Project {
 	visitUrl?: string; // 添加前往项目链接字段
 }
 
-export const projectsData: Project[] = [
+export const projectsData: Project[] = [];
+
+export const projectsDataOld: Project[] = [
 	{
 		id: "mizuki-blog",
 		title: "Mizuki Blog Theme",

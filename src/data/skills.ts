@@ -17,7 +17,9 @@ export interface Skill {
 	color?: string; // Skill card theme color
 }
 
-export const skillsData: Skill[] = [
+export const skillsData: Skill[] = [];
+
+export const skillsDataOld: Skill[] = [
 	// Frontend Skills
 	{
 		id: "javascript",

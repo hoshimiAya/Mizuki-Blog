@@ -16,7 +16,9 @@ export type AnimeItem = {
 	endDate: string;
 };
 
-const localAnimeList: AnimeItem[] = [
+const localAnimeList: AnimeItem[] = [];
+
+const localAnimeListOld: AnimeItem[] = [
 	{
 		title: "Lycoris Recoil",
 		status: "completed",

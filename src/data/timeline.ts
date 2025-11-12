@@ -23,7 +23,9 @@ export interface TimelineItem {
 	featured?: boolean;
 }
 
-export const timelineData: TimelineItem[] = [
+export const timelineData: TimelineItem[] = [];
+
+export const timelineDataOld: TimelineItem[] = [
 	{
 		id: "current-study",
 		title: "Studying Computer Science and Technology",
