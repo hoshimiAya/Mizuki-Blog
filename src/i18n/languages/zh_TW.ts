@@ -159,6 +159,8 @@ export const zh_TW: Translation = {
 	[Key.skills]: "技能展示",
 	[Key.skillsSubtitle]: "我的技術技能和專業知識",
 	[Key.skillsFrontend]: "前端開發",
+	[Key.skillsLanguages]: "程式語言",
+	[Key.skillsFrameworks]: "框架",
 	[Key.skillsBackend]: "後端開發",
 	[Key.skillsDatabase]: "數據庫",
 	[Key.skillsTools]: "開發工具",

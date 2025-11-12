@@ -167,6 +167,8 @@ export const ja: Translation = {
 	[Key.skills]: "スキル",
 	[Key.skillsSubtitle]: "私の技術スキルと専門知識",
 	[Key.skillsFrontend]: "フロントエンド開発",
+	[Key.skillsLanguages]: "プログラミング言語",
+	[Key.skillsFrameworks]: "フレームワーク",
 	[Key.skillsBackend]: "バックエンド開発",
 	[Key.skillsDatabase]: "データベース",
 	[Key.skillsTools]: "開発ツール",
