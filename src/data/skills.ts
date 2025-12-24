@@ -60,20 +60,6 @@ export const skillsData: Skill[] = [
 		color: "#5C3EE8",
 	},
 
-	// Flutter
-	{
-		id: "flutter",
-		name: "Flutter",
-		description: "Google 的跨平台 UI 框架，用于构建移动与桌面应用。",
-		icon: "logos:flutter",
-		category: "frameworks",
-		level: "beginner",
-		experience: { years: 0, months: 1 },
-		projects: [],
-		certifications: [],
-		color: "#02569B",
-	},
-
 	// VSCode
 	{
 		id: "vscode",
@@ -198,20 +184,6 @@ export const skillsData: Skill[] = [
 		projects: [],
 		certifications: [],
 		color: "#3776AB",
-	},
-
-	// Dart
-	{
-		id: "dart",
-		name: "Dart",
-		description: "用于构建 Flutter 应用的编程语言。",
-		icon: "logos:dart",
-		category: "languages",
-		level: "beginner",
-		experience: { years: 0, months: 1 },
-		projects: [],
-		certifications: [],
-		color: "#0175C2",
 	},
 ];
 
